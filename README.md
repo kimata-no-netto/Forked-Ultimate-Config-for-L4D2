@@ -1,25 +1,3 @@
-# Notice: Reduced Maintenance Starting January 1st, 2025
-
-As of January 1, 2025, I will be concluding active maintenance and updates for this configuration. After dedicating many years to this project and contributing to the Left 4 Dead 2 community, I will be stepping back significantly from direct involvement. Consequently, future game updates or modifications may no longer be promptly reflected in the configuration.
-
-That said, the project will remain fully accessible to the community, and I warmly encourage you to carry forward its legacy. Here’s how you can get involved:
-
-- Fork the repository to create your own version.
-- Experiment with new ideas and implement improvements.
-- Build upon the existing foundation to enhance and expand its capabilities.
-
-If you create derivative works, I kindly ask that you **retain the original credits and acknowledgments**. Preserving the project's history ensures proper recognition of the collaborative effort that has shaped it over the years.
-
-Whether you choose to make minor adjustments or embark on major overhauls, I’m excited to see how this configuration evolves through the community’s creativity and passion. Your contributions can bring fresh perspectives and new energy to this project.
-
-Finally, I extend my heartfelt gratitude to everyone who has supported, contributed to, or been inspired by this endeavor. Your enthusiasm, constructive feedback, and collaborative spirit have made this journey deeply fulfilling. Thank you for being an essential part of this project’s story.
-
-Cheers!
-
-J.
-
-------
-
 # Ultimate L4D2 Config (autoexec) by J.
 
 * [Disclaimer](#disclaimer)
